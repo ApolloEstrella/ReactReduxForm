@@ -1,0 +1,7 @@
+npx create-react-app contact-redux
+
+npm install --save redux react-redux redux-form
+
+npm install @material-ui/core
+
+npm install @material-ui/core
